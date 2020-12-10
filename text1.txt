@@ -1,6 +1,5 @@
 i
 hello i am using vim and i am learning git and git hubw
-
-
+Now I want to change something in the github
 
 
